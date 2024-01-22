@@ -1,7 +1,6 @@
 import pygame 
 import sys
 
-
 class Ball:
     def __init__(self, game):
         self.x_input = 1
